@@ -1,0 +1,21 @@
+
+# Entorno virtual
+Api/venv/
+
+
+# Archivos de caché de Python
+Api/__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de configuración del editor/IDE
+.vscode/
+.idea/
+
+# Archivos de configuración del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de lock (si no los compartes)
+Pipfile.lock
+poetry.lock
